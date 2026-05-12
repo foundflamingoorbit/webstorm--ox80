@@ -1,4 +1,4 @@
-# 
+# JetBrains WebStorm for PC | JetBrains WebStorm for Windows vip Plugin: project-management & terminal-integration offers the most advanced JetBrains WebStorm for PC | JetBrains
 
 
 
